@@ -164,3 +164,112 @@ header {
     width: 274px;
     height: 240px;
 }
+
+/* my inspiration style */
+.inspiration {
+    width: 1140px;
+    height: 777px;
+    margin: 0 auto 149px;
+}
+
+.insp-head {
+    width: 852px;
+    height: 115px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.insp-title {
+    width: 852px;
+    height: 39px;
+    margin-bottom: 24px;
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.insp-des {
+    width: 852px;
+    height: 52px;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.insp-mid {
+    width: 1140px;
+    height: 610px;
+    margin-top: 48px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+}
+
+iframe {
+    width: 1076px;
+    height: 550px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+/* My current target style */
+.target {
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto 60px;
+    border: 1px solid;
+}
+
+.target-head {
+    width: 946px;
+    height: 113px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+.skills {
+    width: 1140px;
+    height: 299px;
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+}
+
+.skill {
+    width: 364px;
+    height: 299px;
+    border: 1px solid;
+}
+
+.skill-content {
+    width: 284px;
+    height: 219px;
+    margin: 40px;
+    border: 1px solid;
+}
+
+.skill-title {
+    width: 284px;
+    height: 36px;
+    margin-bottom: 8px;
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.skill-des {
+    width: 284px;
+    height: 52px;
+    margin-bottom: 24px;
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+.skill-content a {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+}
