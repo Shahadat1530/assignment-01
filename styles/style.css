@@ -60,9 +60,13 @@ header {
 .contact-btn {
     width: 208px;
     height: 66px;
-    color: white;
     border-radius: 8px;
     background: rgb(13, 19, 33);
+}
+
+.contact-btn a {
+    text-decoration: none;
+    color: white;
 }
 
 /* why web style */
@@ -338,7 +342,6 @@ iframe {
     height: 52px;
     margin: 0 auto;
     color: white;
-    opacity: 0.7;
     font-size: 16px;
     font-weight: 400;
 }
